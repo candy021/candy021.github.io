@@ -7,6 +7,20 @@
   text-align:center;
   line-height:normal;
 }
+.box_1 {
+}
+.box_2 {
+}
+.box_3 {
+}
+.ellipse {
+}
+._图片 {
+}
+.placeholder {
+}
+.button {
+}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -51,12 +65,9 @@
 ._文本段落 {
   text-align:left;
 }
-._文本链接 {
-  color:#0000FF;
+.line {
 }
-._鼠标悬停文本链接时 {
-}
-._鼠标按下文本链接时 {
+.arrow {
 }
 ._流程形状 {
 }
@@ -69,28 +80,11 @@
   text-align:center;
   line-height:normal;
 }
-._图片 {
-}
-.box_1 {
-}
-.box_3 {
-}
-.ellipse {
-}
-.button {
-}
-.line {
-}
-.droplist {
-  color:#000000;
-  text-align:left;
+.primary_button {
+  color:#FFFFFF;
 }
 .marker {
   color:#FFFFFF;
 }
 .flow_shape {
-}
-.box_2 {
-}
-.icon {
 }
