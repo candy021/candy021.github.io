@@ -3079,3 +3079,26 @@
   width:211px;
   white-space:nowrap;
 }
+#u286_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:59px;
+  height:15px;
+}
+#u286 {
+  position:absolute;
+  left:1066px;
+  top:204px;
+  width:59px;
+  height:15px;
+  font-size:12px;
+  text-align:right;
+}
+#u287 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:59px;
+  word-wrap:break-word;
+}
