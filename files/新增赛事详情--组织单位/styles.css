@@ -1594,3 +1594,25 @@
   width:127px;
   word-wrap:break-word;
 }
+#u872_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:107px;
+  height:16px;
+}
+#u872 {
+  position:absolute;
+  left:370px;
+  top:1347px;
+  width:107px;
+  height:16px;
+  color:#999999;
+}
+#u873 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:107px;
+  white-space:nowrap;
+}
